@@ -4,7 +4,8 @@
 class Problem1:
     p_name = "Campus bikes. LC1057/1066"
     p_description = {'algorithm': "Hungarian Maximum Matching Algorithm (KM, O(n^3))",
-                     'link': "https://brilliant.org/wiki/hungarian-matching/"
+                     'links': ["https://brilliant.org/wiki/hungarian-matching/",
+                               "https://blog.csdn.net/u011721440/article/details/38169201"]
                      }
     input_args = None
 
