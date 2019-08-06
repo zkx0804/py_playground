@@ -3,6 +3,9 @@
 
 class Problem1:
     p_name = "Campus bikes. LC1057/1066"
+    p_description = {'algorithm': "Hungarian Maximum Matching Algorithm (KM, O(n^3))",
+                     'link': "https://brilliant.org/wiki/hungarian-matching/"
+                     }
     input_args = None
 
     def __init__(self):
